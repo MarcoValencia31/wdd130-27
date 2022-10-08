@@ -1,0 +1,44 @@
+#content {max-width:1600px; margin:0;}
+nav a{text-align: center;}
+#hero-msg h1, #hero-msg h4{text-align: center;}
+#hero {text-align: center;}
+.button-box{text-align: center;}
+
+main section{text-align: center;}
+description{text-emphasis: center;}
+#background {height: 725px;}
+body {
+    background-color: #258A2F; 
+}
+header {
+    background-color:#4ea2df;
+}
+nav a:hover {
+    background-color: black;
+}
+#background {
+    background-color: #014A7F;
+}
+.msg { background-color: #ffffff;}
+footer {
+    background-color: #ffffff;
+}
+
+.icon {
+    background-color: #014A7F ;
+    width: 80px;
+}
+#hero-img {width: 100%;}
+nav a {
+    text-align: center;
+    color: #014A7F;
+    text-decoration: none;
+}    
+
+footer p {
+    text-align: left;
+    font-size: 1.2em;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}    
