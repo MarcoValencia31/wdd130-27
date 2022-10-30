@@ -9,10 +9,14 @@ nav a{
     text-align: center;
     color: #017f44;
 }
-#hero-img {width: 100%;}
+#hero-img {
+    width: 100%;
+    z-index: -1
+}
 #hero section {
-    margin-top: -1000px;
-    margin-left: 600px;
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: 100px;
 }
 .book {  
     padding: 15px 30px;
